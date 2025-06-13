@@ -1,3 +1,37 @@
+# RecruitBoost – Pricing Page 💼💳
+
+A dark-themed React pricing page designed for a recruitment platform.  
+Showcases 3 credit-based plans with feature comparisons and CTAs.
+
+## 🧾 Plans Displayed
+- **Starter** – Free, limited access + 10 free credits
+- **Professional** – $99, full CV access + 20 free credits
+- **Enterprise** – $299, premium features + 50 free credits
+
+## 🎨 Highlights
+- Clean, modern **dark UI**
+- Credit-based pricing logic
+- Responsive layout with 3-tier cards
+- Reusable components
+- Hover effects & colored CTAs
+
+## 🧰 Tech Stack
+- React
+- JSX
+- CSS3
+
+## 🚀 Run locally
+
+With NPM:
+
+--bash
+npm install
+npm start
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
